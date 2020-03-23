@@ -1,3 +1,3 @@
 # Projeto-Netflix 
 
-Projeto criado através do Curso Webmaster Front-End Completo - em construção
+Projeto em andamento feito através do Curso Webmaster Front-End Completo da[Danki Code](https://cursos.dankicode.com/)]
